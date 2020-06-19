@@ -7,8 +7,9 @@ extends Node
 func _ready():
 	pass # Replace with function body.
 
-# Called everasdasdasdasdasasdasdy frame. 'delta' is the elapsed time since the previous frame.
-# This is not change. ofc
-# This is second change.
-func _process(delta):
-	pass
+
+# asdasdasdasdasd every frame. 'delta' is the elapsed time since the previous frame.
+# This is a change
+#func _process(delta):
+#	pass
+
