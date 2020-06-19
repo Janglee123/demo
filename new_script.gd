@@ -8,5 +8,6 @@ func _ready():
 	pass # Replace with function body.
 
 # Called everasdasdasdasdasasdasdy frame. 'delta' is the elapsed time since the previous frame.
+# This is not change. ofc
 func _process(delta):
 	pass
