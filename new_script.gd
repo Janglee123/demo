@@ -14,5 +14,6 @@ func _ready():
 # I dont do it again.
 # I swear this is last one. 
 # HOHO, I DID.
+# Damn
 func _process(delta):
 	pass
