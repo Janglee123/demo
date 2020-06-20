@@ -2,7 +2,7 @@
 
 [node name="Node2D" type="Node2D"]
 
-[node name="L" type="Node2D" parent="."]
+[node name="ll" type="Node2D" parent="."]
 
 [node name="Button" type="Button" parent="."]
 margin_right = 12.0
