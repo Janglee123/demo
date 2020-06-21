@@ -8,5 +8,7 @@ func _ready():
 	pass # Replace with function body.
 
 # local change
+# remote commit
+
 func _process(delta):
 	pass
