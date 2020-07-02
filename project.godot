@@ -22,7 +22,7 @@ _global_script_class_icons={
 
 config/name="demo"
 run/main_scene="res://demo2.tscn"
-config/icon="res://icon.png"
+config/icon="res://icon2.png"
 
 [gdnative]
 
