@@ -4,8 +4,8 @@ extends Node
 one
 two
 three
-five.1
-seven
+five
+seven.1
 eight
 nine
 ten
