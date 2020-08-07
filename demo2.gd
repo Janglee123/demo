@@ -7,6 +7,6 @@ var max_time := 5.0
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
-	time += delta + 1
+	time += delta
 	if time >= max_time:
 		time = 0
